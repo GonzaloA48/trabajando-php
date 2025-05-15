@@ -27,7 +27,7 @@
         echo "mayor de edad";
     else
         echo "menor de edad";
-
+        echo "menor de edad";  
 
 
 
