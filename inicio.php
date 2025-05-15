@@ -30,6 +30,4 @@
         echo "menor de edad";  
 
 
-
-
 ?>

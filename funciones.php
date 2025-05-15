@@ -31,6 +31,8 @@
         $r = 5;
         echo areaCirculo($r);
 
+        // Manejo de sesiones 
+
 
     echo "<h1>"."FUNCIONES EN PHP"."</h1><br>";
     
